@@ -31,9 +31,9 @@ export default function Header() {
         </svg>
         <span
           className="max-md:hidden select-none font-extrabold ltr:ml-2 rtl:mr-2"
-          title="Petsonal AI Gesture Generation Research Community"
+          title="ElasticArm AI Gesture Generation Research Community"
         >
-          Petsonal AI
+          ElasticArm AI
         </span>
       </a>
       {/* <a className="text-sm contrast-more:text-gray-700 contrast-more:dark:text-gray-100 max-md:hidden whitespace-nowrap font-medium subpixel-antialiased" aria-current="true" href="/docs/getting-started">Docs</a> */}
@@ -55,19 +55,19 @@ export default function Header() {
                     </div>
                 </div> */}
       <a
-        href="https://petsonal.github.io/"
+        href="https://elastic.github.io/"
         target="blank"
         rel="blank"
         className=" contrast-more:text-gray-700 contrast-more:dark:text-gray-100 max-md:hidden whitespace-nowrap text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200"
         aria-current="false"
       >
-        Petsonal ↗
+        ElasticArm ↗
       </a>
-      <a href="https://github.com/petsonal" target="blank" rel="noreferrer">
+      <a href="https://github.com/elasticarm" target="blank" rel="noreferrer">
         <Github />
         <span className="sr-only">GitHub</span>
       </a>
-      <a href="https://twitter.com/petsonalai" target="blank" rel="noreferrer">
+      <a href="https://twitter.com/elasticarmai" target="blank" rel="noreferrer">
         <Twitter />
       </a>
     </Navbar>

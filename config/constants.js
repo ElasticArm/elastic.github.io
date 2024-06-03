@@ -24,7 +24,7 @@ export const DEFAULTTHEME = {
   // },
   darkMode: true,
   direction: "ltr",
-  // docsRepositoryBase: 'https://github.com/petsonal.github.io/petsonal.github.io',
+  // docsRepositoryBase: 'https://github.com/elastic.github.io/elastic.github.io',
   // editLink: {
   //     component: function EditLink({ className, filePath, children }) {
   //         const editUrl = useGitEditUrl(filePath)
